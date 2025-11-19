@@ -5,4 +5,4 @@
 * C# (kinda)  
 * and Asssembly
 ## Check out my epic library  
-## [MaddHack](/DrMaddMam/MaddHack)
+## [MaddHack](github.com/DrMaddMam/MaddHack)
