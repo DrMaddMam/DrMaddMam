@@ -48,7 +48,7 @@ int strlen(char* str) {
 }
 ```
 # * Pointer placement
-Where I put * for pointers is really based on whether it is obvious it is a pointer, if it isn't obvious put it before the name as if it were part of the name
+Where I put * for pointers is based on whether it's obvious it's a pointer, if it isn't obvious put it before the name as if it were part of the name
 ```
 int num = 4;
 int *ptr = &num;
