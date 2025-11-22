@@ -7,15 +7,15 @@
 * C# (kinda)  
 * and Asssembly  
 ---
-## Code formatting
-# Curly Bracket Placement
+# My Code formatting
+## Curly Bracket Placement
 Put curly brackets in the same line as a function/struct
 ```
 void main() {
     printf("Hello, World!\n");
 }
 ```
-# Tab size/Spaces
+## Tab size/Spaces
 Use spaces because if you want to edit your code somewhere else there is a varible tab size from 2-4-8
 Use 4 spaces for indents
 ```
@@ -27,7 +27,7 @@ void main() {
     }
 }
 ```
-# () Placement
+## () Placement
 For functions use function() for everything else use if ()
 ```
 void main() {
@@ -36,7 +36,7 @@ void main() {
     }
 }
 ```
-# i++ or ++i
+## i++ or ++i
 Use ++i because it is faster, most compilers do that automatically but some might not, so it is good practice to do so.
 ```
 int strlen(char* str) {
@@ -47,7 +47,7 @@ int strlen(char* str) {
     return i;
 }
 ```
-# * Pointer placement
+## * Pointer placement
 Where I put * for pointers is based on whether it's obvious it's a pointer, if it isn't obvious put it before the name as if it were part of the name
 ```
 int num = 4;
